@@ -1,5 +1,7 @@
-# Coursera - Google Data Analytics Capstone, Cyclistic Bike Share Case Study
+![Untitled (66)](https://github.com/user-attachments/assets/f6095178-c702-4b65-a0eb-940d0a7f16d6)
 
+# Coursera - Google Data Analytics Capstone, Cyclistic Bike Share Case Study
+ 
 *Introduction*
 
 This is the part of the last assignment of the Google Data Analytics Profesional Certificate from Coursera.This document includes the steps followed as required by the Google DA Capstone Project for the Cyclist Bike-Share case.
