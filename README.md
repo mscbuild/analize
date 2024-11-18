@@ -76,10 +76,12 @@ How did you verify the data’s integrity? How does it help you answer your ques
 
 1.Download data and store it appropriately.
 
-2.Identify how it’s organized.
+ 2.Identify how it’s organized.
 
 3.Sort and filter the data.
 
 4.Determine the credibility of the data.
 
 [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
+
+![](https://komarev.com/ghpvc/?username=mscbuild) 
