@@ -84,6 +84,20 @@ How did you verify the data’s integrity? How does it help you answer your ques
 
 4.Determine the credibility of the data.
 
-[Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
+This is an exploratory data analysis project done with  R in Kaggle. The project requires us to do the following:
+
+● Data Cleaning: Assessing Data Quality, Cleaning Data, Combining and Organizing Data, Creating New Variables
+
+● Data Analysis and Visualization: Divvy Trip Trends analysis and visualization and creating charts and graphs Tebleua
+
+● Recommendations for Future Analysis
+
+The full project is posted on Kaggle: https://www.kaggle.com/code/michelnguegang/how-does-a-bike-share-navigate-speedy-success
+
+Thank you !
+
+[Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone])
+
+The full project is posted on [Kaggle]:(https://www.kaggle.com/code/jurijsruko/capstone-proyect)
 
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
