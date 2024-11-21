@@ -92,12 +92,12 @@ This is an exploratory data analysis project done with  R in Kaggle. The project
 
 ● Recommendations for Future Analysis
 
-The full project is posted on Kaggle: https://www.kaggle.com/code/michelnguegang/how-does-a-bike-share-navigate-speedy-success
-
-Thank you !
+ Thank you !
 
 [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone])
 
-The full project is posted on [Kaggle]:(https://www.kaggle.com/code/jurijsruko/capstone-proyect)
+The full project is posted on [Kaggle](https://www.kaggle.com/code/jurijsruko/capstone-proyect)
+
+Tableau Dashboard - created a dashboard in Tableau summarizing the data. [Tableua Dashboard](https://public.tableau.com/app/profile/jurijsrck/viz/CyclisticBikeShareCase/Dashboard)
 
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
