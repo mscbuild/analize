@@ -19,6 +19,8 @@ You are a junior data analyst working on the marketing analyst team at Cyclistic
 
 ● Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
 
+![image](https://github.com/user-attachments/assets/ca73d11d-c4ae-4702-adb5-da1e8c417c9f)
+
 # About the company
 
 Cyclistic is a bike-share program that features more than 24800 bicycles a692 700 docking stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
@@ -100,4 +102,5 @@ The full project is posted on [Kaggle](https://www.kaggle.com/code/jurijsruko/ca
 
 Tableau Dashboard - created a dashboard in Tableau summarizing the data. [Tableua Dashboard](https://public.tableau.com/app/profile/jurijsrck/viz/CyclisticBikeShareCase/Dashboard)
 
+ 
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
