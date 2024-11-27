@@ -102,5 +102,5 @@ The full project is posted on [Kaggle](https://www.kaggle.com/code/jurijsruko/ca
 
 Tableau Dashboard - created a dashboard in Tableau summarizing the data. [Tableua Dashboard](https://public.tableau.com/app/profile/jurijsrck/viz/CyclisticBikeShareCase/Dashboard)
 
- 
-![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+ ![](https://komarev.com/ghpvc/?username=mscbuild) 
