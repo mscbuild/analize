@@ -1,5 +1,22 @@
 ![Untitled (66)](https://github.com/user-attachments/assets/f6095178-c702-4b65-a0eb-940d0a7f16d6)
 
+# About:
+
+This repository contains the capstone project developed during the final course of the Google Data Analytics Professional Certificate. Which is a specialization, with seven courses in total and a final project (the capstone), available through the Coursera platform.
+
+The objective of this capstone project is to apply the knowledge developed during the course:
+```bash
+* Going through the Ask, Prepare, Process, Analyze, and Share phases of the data analysis process;
+* Stating a business task clearly;
+* Importing data from a real dataset;
+* Documenting any data cleaning that you perform on the dataset;
+* Analyzing the data;
+* Creating data visualizations from your analysis;
+* Summarizing key findings from your analysis;
+* Documenting your conclusions and recommendations;
+* Creating and publishing your case study.
+```
+
 # Coursera - Google Data Analytics Capstone, Cyclistic Bike Share Case Study
  
 *Introduction*
