@@ -116,9 +116,7 @@ This is an exploratory data analysis project done with  R in Kaggle. The project
  <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/19837127-2c35-4e1b-9575-e322268ec617" />
 
  
-[Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone])
-
-The full project is posted on [Kaggle](https://www.kaggle.com/code/jurijsruko/capstone-proyect)
+ The full project is posted on [Kaggle](https://www.kaggle.com/code/jurijsruko/capstone-proyect)
 
 Tableau Dashboard - created a dashboard in Tableau summarizing the data. [Tableua Dashboard](https://public.tableau.com/app/profile/jurijsrck/viz/CyclisticBikeShareCase/Dashboard)
 
